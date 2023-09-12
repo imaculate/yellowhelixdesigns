@@ -4,6 +4,6 @@ title = "Get in touch"
 +++
 
 
-Happy to answer queries regarding my jewellery, custom orders, wholesale orders and booking a class.
+Happy to answer any queries regarding my jewellery, custom orders, wholesale orders and booking a class.
 
 #### [SUBSCRIBE TO MY NEWSLETTER](http://eepurl.com/idJfcj)
