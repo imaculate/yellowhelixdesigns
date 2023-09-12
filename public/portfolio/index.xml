@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Portfolios on Yellow Helix Designs</title>
+    <link>https://yellowhelixdesigns.github.io/portfolio/</link>
+    <description>Recent content in Portfolios on Yellow Helix Designs</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 05 Sep 2023 19:41:01 +0530</lastBuildDate><atom:link href="https://yellowhelixdesigns.github.io/portfolio/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Catalog</title>
+      <link>https://yellowhelixdesigns.github.io/portfolio/catalog/</link>
+      <pubDate>Tue, 05 Sep 2023 18:25:22 +0530</pubDate>
+      
+      <guid>https://yellowhelixdesigns.github.io/portfolio/catalog/</guid>
+      <description>&lt;p&gt;Browse unique designs to inspire your next look.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Events</title>
+      <link>https://yellowhelixdesigns.github.io/portfolio/events/</link>
+      <pubDate>Tue, 05 Sep 2023 19:41:01 +0530</pubDate>
+      
+      <guid>https://yellowhelixdesigns.github.io/portfolio/events/</guid>
+      <description>&lt;p&gt;Find me at markets and fairs.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Wholesale</title>
+      <link>https://yellowhelixdesigns.github.io/portfolio/wholesale/</link>
+      <pubDate>Sat, 05 Nov 2016 19:44:32 +0530</pubDate>
+      
+      <guid>https://yellowhelixdesigns.github.io/portfolio/wholesale/</guid>
+      <description>&lt;p&gt;Order high quality handmade jewellery in bulk.&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>
